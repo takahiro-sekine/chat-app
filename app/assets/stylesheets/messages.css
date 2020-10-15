@@ -73,11 +73,11 @@
   color: #333;
 }
 
-.exit-chat{
+.header-button{
   margin-top: 40px;
 }
 
-.exit-chat a{
+.header-button a{
   text-decoration: none;
   border: 1px solid darkred;
   color: darkred;
